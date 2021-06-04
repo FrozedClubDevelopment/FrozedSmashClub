@@ -1,0 +1,6 @@
+name: FrozedSmashClub
+version: ${project.version}
+main: club.frozed.FrozedSmashClub
+author: Elb1to
+description: SMASH Gamemode Replica from Shotbow Network (shotbow.net)
+website: https://elb1to.me
